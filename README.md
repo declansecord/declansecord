@@ -10,8 +10,8 @@
 
 <h2>📃 Certifications</h2>
 
-- [<b>Google Cyber Security Professional</b>](https://imgur.com/56nFljI)
-- [<b>Belkasoft iOS Forensics</b>](https://imgur.com/7SU5Rt9)
+- [<b>Google Cyber Security Professional</b>](https://i.imgur.com/56nFljI.png)
+- [<b>Belkasoft iOS Forensics</b>](https://i.imgur.com/7SU5Rt9.png)
 
 <h2> 🤳 Connect with me:</h2>
 
