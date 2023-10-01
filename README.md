@@ -1,4 +1,4 @@
-<h1>Hi, I'm Declan!<br/><a href="https://linkedin.com/in/declan-secord">Cyber Security Professional</a></h1>
+<h1>Hi, I'm Declan!<br><a href="https://linkedin.com/in/declan-secord">Cyber Security Professional</a></h1>
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
